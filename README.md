@@ -13,7 +13,7 @@ Players play through a program they write beforehand, with no input nor command 
 
 The challenge worked by leagues (namely Wood 2, Wood 1, Bronze, Silver, Gold and Legend) where you had to defeat a NPC Boss and a fixed amount of players to rank up. On Legends there was no Boss and players where ranked with an ELO-like system.
 
-### Source code for CodinGame's Spring Challenge 2022 event.
+### CodinGame's Spring Challenge 2022 event.
 
 https://www.codingame.com/contests/spring-challenge-2022/
 
